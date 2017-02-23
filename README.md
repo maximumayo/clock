@@ -1,1 +1,1 @@
-# clock
+# This is a clock for those who want to know the time
