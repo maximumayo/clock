@@ -1,1 +1,3 @@
-# This is a clock for those who want to know the time
+#### the time is now 
+
+#### https://maximumayo.github.io/clock/
